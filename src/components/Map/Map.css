@@ -1,0 +1,14 @@
+.map{
+    padding: 0;
+    margin: 0;
+    border:0;
+    color:white;
+}
+.leaflet-container{
+    width: 100vw;
+    height:80vh;
+}
+.popup{
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+}
